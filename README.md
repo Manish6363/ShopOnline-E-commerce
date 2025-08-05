@@ -1,4 +1,20 @@
 # ShopOnline – An E-Commerce Web Application
+
+## Technologies Used [Java + Spring-boot-MVC + Spring JPA + JSP]
+**Java + Spring Boot MVC:** Core backend framework for building a modular and scalable application.
+
+**Spring JPA:** For ORM-based database operations and entity management.
+
+**JSP (JavaServer Pages):** To render dynamic content on the User, Seller, and Admin interfaces.
+
+**MySQL:** Relational database for structured data storage and retrieval.
+
+**HTML/CSS:** To design and style the frontend UI.
+
+**JavaScript:** To enhance interactivity and support dynamic frontend behavior.
+
+
+## Objective
 ShopOnline is a comprehensive e-commerce web application inspired by leading platforms such as Amazon, Flipkart, and Myntra. It is designed to provide a seamless online shopping experience to users, while also offering secure modules for sellers and administrators. The application features a robust navigation system with intuitive UI elements like search functionality, product categorization, and product highlights (e.g., top-rated and latest arrivals) on the homepage.
 
 **The application is divided into three secure modules:**
