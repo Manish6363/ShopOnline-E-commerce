@@ -1,0 +1,110 @@
+@charset "UTF-8";
+/* Login Section */
+#login-container {
+	display: flex;
+	margin: 20px;
+	overflow: hidden;
+}
+
+#login-video {
+	flex: 1;
+	overflow: hidden;
+	border-radius: 20px;
+	margin: 10px;
+}
+
+#login-video video {
+	width: 100%;
+	height: 100%;
+	object-fit: fill;
+}
+
+#login-sub-container {
+	flex: 1;
+	background-color: var(--bg-light);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 40px;
+	border-radius: 20px;
+	margin: 10px;
+}
+
+#heading-name {
+	color: var(--primary-color);
+	font-size: 2.5rem;
+	margin-bottom: 20px;
+}
+
+#login-form {
+	width: 100%;
+	max-width: 75%;
+	display: flex;
+	flex-direction: column;
+	gap: 25px;
+	padding: 30px;
+	background-color: #fff;
+	border-radius: 12px;
+	box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+input {
+	padding: 12px;
+	font-size: 1rem;
+	border: 1px solid #ccc;
+	border-radius: 6px;
+	transition: border 0.3s ease;
+}
+
+input:focus {
+	border-color: var(--primary-color);
+	outline: none;
+}
+
+.login-btn {
+	padding: 12px;
+	font-size: 1rem;
+	background-color: var(--button-bg);
+	color: var(--text-light);
+	border: none;
+	border-radius: 6px;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+}
+
+.login-btn:disabled {
+	background-color: #999;
+	cursor: not-allowed;
+}
+
+.links {
+	display: flex;
+	justify-content: space-between;
+	font-size: 0.9rem;
+	margin-top: 10px;
+}
+
+.links a {
+	text-decoration: none;
+	color: red;
+}
+
+.links a:hover {
+	color: var(--accent-color);
+}
+
+@media ( max-width : 768px) {
+	#login-container {
+		flex-direction: column;
+	}
+	#login-video, #login-sub-container {
+		flex: none;
+		height: auto;
+		width: 100%;
+	}
+	#login-form {
+		margin: 0;
+		max-width: 80%;
+	}
+}
