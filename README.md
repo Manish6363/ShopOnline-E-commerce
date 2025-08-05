@@ -8,19 +8,15 @@ ShopOnline is a comprehensive e-commerce web application inspired by leading pla
 
 All modules are protected against unauthorized access using secure login mechanisms. Sensitive information like passwords is encrypted using Java’s Base64 encoding. OTP-based verification is used during registration to prevent fraudulent entries.
 
-User Module
-Registration & Authentication
-Users must register using a valid email ID.
 
-The system validates the email to prevent duplicate accounts.
-
-If the email is not already registered, an OTP is sent for verification.
-
-Upon successful OTP verification and submission of basic details, the user is registered.
-
-A confirmation email is sent automatically.
-
-Users cannot log in without completing the registration and verification process.
+## User Module
+#### Registration & Authentication: 
+    * Users must register using a valid email ID.
+    * The system validates the email to prevent duplicate accounts.
+    * If the email is not already registered, an OTP is sent for verification.
+    * Upon successful OTP verification and submission of basic details, the user is registered.
+    * A confirmation email is sent automatically.
+    * Users cannot log in without completing the registration and verification process.
 
 Login
 Registered users log in using their email and password.
@@ -63,7 +59,8 @@ The seller ships the product.
 
 Users can track shipment updates within the app and through emails.
 
-Seller Module
+
+## Seller Module
 Registration & Approval
 Sellers must register using a valid email address.
 
@@ -93,7 +90,8 @@ View shipment requests from users.
 
 Pack and ship ordered products as per admin instructions.
 
-Admin Module
+
+## Admin Module
 Access & Control
 The admin has full control over the application and its users.
 
