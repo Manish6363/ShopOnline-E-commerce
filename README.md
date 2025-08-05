@@ -20,7 +20,7 @@ All modules are protected against unauthorized access using secure login mechani
 #### Login
     * Registered users log in using their email and password.
     * Unregistered users are prompted to register before proceeding.
-    * Features Available After Login
+#### Features Available After Login
 ##### Profile Management: 
     * Update profile picture, personal information, address, and password.
 ##### Wallet Management: 
@@ -44,72 +44,48 @@ All modules are protected against unauthorized access using secure login mechani
 
 
 ## Seller Module
-Registration & Approval
-Sellers must register using a valid email address.
+#### Registration & Approval
+    * Sellers must register using a valid email address.
+    * An OTP is sent for verification.
+    * After successful OTP validation and form submission, the seller receives a confirmation email.
+    * The seller cannot log in until approved by an admin.
+    * Upon approval, an email is sent to notify the seller to access.
 
-An OTP is sent for verification.
-
-After successful OTP validation and form submission, the seller receives a confirmation email.
-
-The seller cannot log in until approved by an admin.
-
-Upon approval, an email is sent notifying the seller of access.
-
-Login
-Verified sellers can log in using their email and password.
-
-Features Available After Login
-Profile Management: Update shop details, address, profile picture, and password.
-
-Product Management:
-
-Add new products with images and details.
-
-Edit or delete existing products.
-
-Order Fulfillment:
-
-View shipment requests from users.
-
-Pack and ship ordered products as per admin instructions.
+#### Login
+    * Verified sellers can log in using their email and password.
+#### Features Available After Login
+##### Profile Management: 
+    * Update shop details, address, profile picture, and password.
+##### Product Management:
+    * Add new products with images and details.
+    * Edit or delete existing products.
+##### Order Fulfillment:
+    * View user ordered product shipment requests from admin.
+    * Pack and ship ordered products as per admin instructions.
 
 
 ## Admin Module
-Access & Control
+All the Access & Controls are perserved.
 The admin has full control over the application and its users.
-
 Admin can manage users, sellers, products, and orders.
 
-Key Features
-User & Seller Management:
+#### Features
+##### User & Seller Management:
+    * View, block, unblock, or permanently delete users and sellers.
+    * Verify and approve newly registered sellers.
+##### Product Management:
+    * Manage product listings.
+    * Apply discounts on the any of seller products.
+    * Remove inappropriate or duplicate listings.
+##### Order & Shipment Management:
+    * Monitor all user orders.
+    * Assign shipment requests to sellers.
+    * Track product delivery progress.
+##### Admin Management:
+    * Create and manage additional admin accounts for platform maintenance.
 
-View, block, unblock, or permanently delete users and sellers.
 
-Approve newly registered sellers.
-
-Product Management:
-
-Manage product listings.
-
-Apply discounts.
-
-Remove inappropriate or duplicate listings.
-
-Order & Shipment Management:
-
-Monitor all user orders.
-
-Assign shipment requests to sellers.
-
-Track product delivery progress.
-
-Admin Management:
-
-Create and manage additional admin accounts for platform maintenance.
-
-Security Measures
+## Security Measures
 Passwords are stored in encrypted format using Java's Base64.
-
 OTP-based registration ensures only valid and verified accounts are created.
-
 Access controls prevent unauthorized login attempts across all modules.
