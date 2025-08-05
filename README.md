@@ -13,6 +13,13 @@
 
 **JavaScript:** To enhance interactivity and support dynamic frontend behavior.
 
+### Security Measures
+Passwords are stored in encrypted format using Java's Base64.
+
+OTP-based registration ensures only valid and verified accounts are created.
+
+Access controls prevent unauthorized login attempts across all modules.
+
 
 ## Objective
 ShopOnline is a comprehensive e-commerce web application inspired by leading platforms such as Amazon, Flipkart, and Myntra. It is designed to provide a seamless online shopping experience to users, while also offering secure modules for sellers and administrators. The application features a robust navigation system with intuitive UI elements like search functionality, product categorization, and product highlights (e.g., top-rated and latest arrivals) on the homepage.
@@ -99,11 +106,3 @@ Admin can manage users, sellers, products, and orders.
     * Track product delivery progress.
 ##### Admin Management:
     * Create and manage additional admin accounts for platform maintenance.
-
-
-## Security Measures
-Passwords are stored in encrypted format using Java's Base64.
-
-OTP-based registration ensures only valid and verified accounts are created.
-
-Access controls prevent unauthorized login attempts across all modules.
