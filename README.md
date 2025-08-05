@@ -12,52 +12,35 @@ All modules are protected against unauthorized access using secure login mechani
 ## User Module
 #### Registration & Authentication: 
     * Users must register using a valid email ID.
-    * The system validates the email to prevent duplicate accounts.
+    * The application validates the email to prevent duplicate accounts.
     * If the email is not already registered, an OTP is sent for verification.
-    * Upon successful OTP verification and submission of basic details, the user is registered.
-    * A confirmation email is sent automatically.
+    * Upon successful OTP verification and submission of basic details, the user is registered and a confirmation email is sent automatically.
     * Users cannot log in without completing the registration and verification process.
 
-Login
-Registered users log in using their email and password.
-
-Unregistered users are prompted to register before proceeding.
-
-Features Available After Login
-Profile Management: Update profile picture, personal information, address, and password.
-
-Wallet Management: Manage wallet balance and transactions.
-
-Product Browsing:
-
-View products by category.
-
-Use filters for price, rating, and more.
-
-Cart Functionality:
-
-Add or remove products.
-
-Proceed to checkout by selecting an address and completing payment.
-
-Order Management:
-
-View order status and details.
-
-Receive automatic order-related email notifications.
-
-Product Review:
-
-Rate and review purchased products to help improve the platform.
-
-Order Flow
-When a user places an order, the admin is notified.
-
-The admin then communicates packing and shipping details to the appropriate seller.
-
-The seller ships the product.
-
-Users can track shipment updates within the app and through emails.
+#### Login
+    * Registered users log in using their email and password.
+    * Unregistered users are prompted to register before proceeding.
+    * Features Available After Login
+##### Profile Management: 
+    * Update profile picture, personal information, address, and password.
+##### Wallet Management: 
+    * Manage wallet balance and transactions.
+##### Product Browsing:
+    * View products by category.
+    * Use filters for price, rating, and more.
+##### Cart Functionality:
+    * Add or remove products.
+    * Proceed to checkout by selecting an address and completing payment.
+##### Order Management:
+    * View order status and details.
+    * Receive automatic order-related email notifications.
+##### Product Review:
+    * Rate and review purchased products to help improve the platform.
+##### Order Flow
+    * When a user places an order, the admin is notified.
+    * The admin then communicates packing and shipping details to the appropriate seller.
+    * The seller ships the product.
+    * Users can track shipment updates within the app and through emails.
 
 
 ## Seller Module
