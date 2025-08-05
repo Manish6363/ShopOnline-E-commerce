@@ -87,5 +87,7 @@ Admin can manage users, sellers, products, and orders.
 
 ## Security Measures
 Passwords are stored in encrypted format using Java's Base64.
+
 OTP-based registration ensures only valid and verified accounts are created.
+
 Access controls prevent unauthorized login attempts across all modules.
