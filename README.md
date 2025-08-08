@@ -85,6 +85,18 @@ All modules are protected against unauthorized access using secure login mechani
 ##### Order Fulfillment:
     * View user ordered product shipment requests from admin.
     * Pack and ship ordered products as per admin instructions.
+    
+<img width="1912" height="966" alt="image" src="https://github.com/user-attachments/assets/7782b970-9138-46d8-931e-5df7949de646" />
+    
+<img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/011e845f-a4d4-4a02-9fb1-921d214aef69" />
+    
+<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/4f53e7c1-8b13-49bf-965a-ef524f3a877f" />
+
+<img width="1911" height="951" alt="image" src="https://github.com/user-attachments/assets/5b09b2b3-d862-4ee9-800d-1bf1a695f052" />
+
+<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/90770628-3ac5-476f-b25b-b2eb8c879cd3" />
+
+
 
 
 ## Admin Module
