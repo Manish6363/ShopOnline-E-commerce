@@ -155,7 +155,9 @@ Admin can manage users, sellers, products, and orders.
 
 <img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/e8bd5424-a373-479c-b3bf-c87fc9b8bad6" />
 
-<img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/49983a3c-e02d-42a8-953a-1b1005e027be" />
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/17019e8e-a896-43f8-b10a-47714ad01cf2" />
+
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/104aba43-47c7-4698-989c-6df03f0cc56f" />
 
 <img width="1919" height="953" alt="image" src="https://github.com/user-attachments/assets/51a70cca-eb11-482d-9548-310ebd204630" />
 
