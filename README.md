@@ -76,16 +76,7 @@ All modules are protected against unauthorized access using secure login mechani
 
 #### Login
     * Verified sellers can log in using their email and password.
-#### Features Available After Login
-##### Profile Management: 
-    * Update shop details, address, profile picture, and password.
-##### Product Management:
-    * Add new products with images and details.
-    * Edit or delete existing products.
-##### Order Fulfillment:
-    * View user ordered product shipment requests from admin.
-    * Pack and ship ordered products as per admin instructions.
-    
+
 <img width="1912" height="966" alt="image" src="https://github.com/user-attachments/assets/7782b970-9138-46d8-931e-5df7949de646" />
     
 <img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/011e845f-a4d4-4a02-9fb1-921d214aef69" />
@@ -94,8 +85,38 @@ All modules are protected against unauthorized access using secure login mechani
 
 <img width="1911" height="951" alt="image" src="https://github.com/user-attachments/assets/5b09b2b3-d862-4ee9-800d-1bf1a695f052" />
 
+![WhatsApp Image 2025-08-08 at 12 03 09_e0ad8594](https://github.com/user-attachments/assets/61a0e5e3-2fe9-4b17-a79a-2eddfdd6f442)
+
 <img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/90770628-3ac5-476f-b25b-b2eb8c879cd3" />
 
+![WhatsApp Image 2025-08-08 at 12 08 50_8aab939d](https://github.com/user-attachments/assets/39cbc6e3-c9d7-4c8a-834a-5c1ba34f3fee)
+
+<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/0b35efec-831e-4cae-a15d-e88e3998e9f2" />
+
+
+#### Features Available After Login
+##### Profile Management: 
+    * Update shop details, address, profile picture, and password.
+
+<img width="1919" height="657" alt="image" src="https://github.com/user-attachments/assets/3e0b7504-f92e-4e14-99df-b5d5f7561001" />
+
+<img width="1908" height="670" alt="image" src="https://github.com/user-attachments/assets/1b74cf01-766e-4897-bcdb-23bc4edf0349" />
+
+
+##### Product Management:
+    * Add new products with images and details.
+    * Edit or delete existing products.
+
+<img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/78f83f70-049a-4e86-9abd-7f0eb0778763" />
+
+
+<img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/42e2a180-6649-4c31-9447-dca3387fad98" />
+
+
+##### Order Fulfillment:
+    * View user ordered product shipment requests from admin.
+    * Pack and ship ordered products as per admin instructions.
+    
 
 
 
@@ -108,6 +129,15 @@ Admin can manage users, sellers, products, and orders.
 ##### User & Seller Management:
     * View, block, unblock, or permanently delete users and sellers.
     * Verify and approve newly registered sellers.
+
+<img width="1915" height="969" alt="image" src="https://github.com/user-attachments/assets/9d3bf8f9-3964-40fd-9984-5102fc294633" />
+
+<img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/e8bd5424-a373-479c-b3bf-c87fc9b8bad6" />
+
+<img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/49983a3c-e02d-42a8-953a-1b1005e027be" />
+
+<img width="1919" height="953" alt="image" src="https://github.com/user-attachments/assets/51a70cca-eb11-482d-9548-310ebd204630" />
+
 ##### Product Management:
     * Manage product listings.
     * Apply discounts on the any of seller products.
@@ -118,3 +148,7 @@ Admin can manage users, sellers, products, and orders.
     * Track product delivery progress.
 ##### Admin Management:
     * Create and manage additional admin accounts for platform maintenance.
+
+
+
+
