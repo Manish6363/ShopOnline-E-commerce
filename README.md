@@ -32,7 +32,7 @@ ShopOnline is a comprehensive e-commerce web application inspired by leading pla
 All modules are protected against unauthorized access using secure login mechanisms. Sensitive information like passwords is encrypted using Java’s Base64 encoding. OTP-based verification is used during registration to prevent fraudulent entries.
 
 
-## User Module
+# User Module
 #### Registration & Authentication: 
     * Users must register using a valid email ID.
     * The application validates the email to prevent duplicate accounts.
@@ -43,17 +43,34 @@ All modules are protected against unauthorized access using secure login mechani
 #### Login
     * Registered users log in using their email and password.
     * Unregistered users are prompted to register before proceeding.
+
+<img width="1916" height="966" alt="image" src="https://github.com/user-attachments/assets/1c8eca0d-30eb-43b5-9e47-b42da5595b4b" />
+
 #### Features Available After Login
 ##### Profile Management: 
     * Update profile picture, personal information, address, and password.
+
+<img width="1912" height="735" alt="image" src="https://github.com/user-attachments/assets/c16546bc-5c30-4949-b401-eeeafe9589dd" />
+
 ##### Wallet Management: 
     * Manage wallet balance and transactions.
+<img width="1917" height="715" alt="image" src="https://github.com/user-attachments/assets/a096ecac-357e-4eaa-8895-2e5ed417fc58" />
+
 ##### Product Browsing:
     * View products by category.
     * Use filters for price, rating, and more.
+
+<img width="1918" height="965" alt="image" src="https://github.com/user-attachments/assets/6992c4cb-14c3-48fb-868e-7c6ccdbcd2a2" />
+
+<img width="1915" height="956" alt="image" src="https://github.com/user-attachments/assets/ed258ff4-7d7f-40e5-89c4-e4f3c2d9cdb6" />
+
+
 ##### Cart Functionality:
     * Add or remove products.
     * Proceed to checkout by selecting an address and completing payment.
+
+
+
 ##### Order Management:
     * View order status and details.
     * Receive automatic order-related email notifications.
@@ -66,7 +83,7 @@ All modules are protected against unauthorized access using secure login mechani
     * Users can track shipment updates within the app and through emails.
 
 
-## Seller Module
+# Seller Module
 #### Registration & Approval
     * Sellers must register using a valid email address.
     * An OTP is sent for verification.
@@ -109,9 +126,13 @@ All modules are protected against unauthorized access using secure login mechani
 
 <img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/78f83f70-049a-4e86-9abd-7f0eb0778763" />
 
-
 <img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/42e2a180-6649-4c31-9447-dca3387fad98" />
 
+<img width="1919" height="896" alt="image" src="https://github.com/user-attachments/assets/8567f3e6-d51a-47db-9c1a-5b3df5504cb0" />
+
+<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/ec468609-7821-4580-8047-1871dd0a1712" />
+
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/78fa012e-4d21-4f8f-8ca3-bce9f87d4288" />
 
 ##### Order Fulfillment:
     * View user ordered product shipment requests from admin.
@@ -120,7 +141,7 @@ All modules are protected against unauthorized access using secure login mechani
 
 
 
-## Admin Module
+# Admin Module
 All the Access & Controls are perserved.
 The admin has full control over the application and its users.
 Admin can manage users, sellers, products, and orders.
